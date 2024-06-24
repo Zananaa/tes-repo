@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Absolut URLs</h1><hr>
+    <p><a
+        href="https://www.w3.org/">W3C</a>
+    </p>
+    <p><a
+        href="https://www.google.com/">Google</a>
+    </p>
+
+    <h2>Relative URLs</h2><hr>
+    <p><a
+        href="html_images.asap">HTML Images</a>
+    </p>
+    <p><a
+        href="/css/deault.asp">CSS Tutorial</a>
+    </p>
+
+        <h2>Use an Image as link</h2><hr>
+        <p><a href="default.asp">
+            <img src="smiley.gif" 
+                alt="HTML tutorial" 
+                style="width: 42px;height: 42px;">
+        </a></p>
+
+            <h2>Button as a link</h2><hr>
+            <p><button
+                onclick="document.location='default.asp'">HTML Tutorial</button>
+            </p>
+
+            <h2>Link Titles</h2><hr>
+            <p><a href="https://www.w3schools.com/html/"
+                title="Go to W3School HTML section">Visit our HTML  Tutorial</a>
+            </p>
+
+                <h2>Link to an Email Addres</h2><hr>
+                <p><a 
+                    href="mailto:someone@example.com">send email</a>
+                </p>

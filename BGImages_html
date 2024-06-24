@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            p {
+                background-image: url('img_girl.jpg'); 
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size: cover;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Background image</h1>
+        <p>You can specify background images<br>
+            for any visible HTML element.<br>
+            In this exemple, the background image<br>
+            is specified for a div element.<br>
+            By default, the background-image<br>
+            will repeat isself in the dorection(s)<br>
+            where it is smaller than the element<br>
+            where iti si specified. (Try resizing the<br>
+            browser window to see hoe the<br>
+            background-image behaves.<br>
+        <p>Jika background-image terletak di bagian "body" maka full image</p>
+        <p>Jika gunakan element "background-repeat: repeat or not repeat" di bagian body<br>
+            Maka background image nya akan keulang atau engga</p>
+        </p>
+    </body> 
+</html>
