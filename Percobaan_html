@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <title>Percobaan awal HTML</title>
+    </head>
+    <body>
+        <h1>Basic HTML</h1>
+            <p>Gunanya tag 'p' untuk membuat paragraf.</p>
+            <p>Percobaan pertama pada html (03-02-2023) <br> HTML coding sederhana yang cocok buat pemula yang ingin belajar coding.</p>
+            <p>Ini buat <br> paragraf baru tanpa membuat paragraf awal.</p>
+                <a href=https://www.w3schools.com">Visit w3schools</a> //gunanya untuk menaruh link yg ingin di kunjungi 
+                <img src="img_gril.jpg"> //gunanya buat naruh gambar
+                <img src="img_gril.jpg" width="500" height="600"> <br> //gunanya untuk menaruh gambar dengan ukuran yang di tentukan
+                <img src="img_gril.jpg" alt="Yellow Jacket">
+            <p style="color:rgb(56, 29, 81);"> Buat paragraf berwarna</p>
+            <p title="Basic HTML"> ini pargraf</p>
+    </body>
+</html>

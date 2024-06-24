@@ -1,0 +1,19 @@
+<h1> this is heading 1.</h1>
+<hr>
+<h2>This is heading 2.</h2>
+<p> this is some other tex.</p>
+<p> this is some other text..</p>
+<hr>//elemen garis buat pemisah, tp bukan akhir text
+<p> 
+        bintang kecil di langit yang biru.
+    amat banyak menghiasi angkasa.
+        aku ingin terbang dan menari.
+    jauh tinggi ketempat kau berada.
+</p>
+<hr>
+<pre>
+    bintang kecil di langit yang biru
+        amat banyak menghiasi angkasa.
+            aku ingin terbang dan menari.
+                jauh tinggi ketempat kau berada.
+</pre>//elemen yang menampilkan text dengan fount (courier), dan mrmberikan 2 space dan paragraf

@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+       <title>Heading html</title> 
+    </head>
+    <body>
+        <h1 style="font-size:30px;"> London is The Capital City Of England </h1> //untuk menambahkan ukuran font
+        <h2 style="color:brown;"> London City Of England</h2>
+            <p> London is the most [opulus city in the United Kingdom, <br> with a metropolitan area od over 13 milion inhabitants</p>
+    </body>
+</html>
